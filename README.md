@@ -1,3 +1,7 @@
+This CPU python script generates random hex for puzzle 73 with secrets
+
+and performs binary transformations inversion, reverse, binary shift +1 and hex rotations(vertical)
+
 RUN:
 
 `python3 find.py`
