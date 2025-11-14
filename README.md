@@ -2,6 +2,10 @@ This CPU python script generates random hex for puzzle 73 with secrets
 
 and performs binary transformations inversion, reverse, binary shift +1 and hex rotations(vertical)
 
+every print it does a full cycle of those transformations per base generated hex
+
+so its not slow, its just that the output is slow, internally it does a lot of work for each base key
+
 RUN:
 
 `python3 find.py`
