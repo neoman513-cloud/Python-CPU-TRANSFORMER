@@ -32,7 +32,7 @@ def inverse(binary_string):
 def run(process_id):
     size = 72
     hexSize = size // 4
-    target = '14oFNXucftsHiUMY8uctg6N487riuyXs4h'
+    target = '12VVRNPi4SJqUTsp6FmqDqY5sGosDtysn4'
 
     hex3 = '';
     g = 0;
